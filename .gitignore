@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.xlsx
+data/previous_clinics.json
+.env
+.venv/
