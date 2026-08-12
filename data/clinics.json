@@ -1,1 +1,22 @@
-PLACEHOLDER_WILL_REPLACE
+[
+  {
+    "id": 1,
+    "business_name": "LUX MedSpa Brickell",
+    "neighborhood": "Brickell",
+    "address": "805 S Miami Ave 9th Floor, Miami, FL 33130",
+    "phone": "305-988-9388",
+    "website": "luxmedspabrickell.com (est)",
+    "google_rating": 5.0,
+    "review_count": 2322,
+    "primary_services": "Microneedling, HydraFacial, Body Contouring, Facials, Exosomes",
+    "botox_price_per_unit_est": 15,
+    "filler_price_syringe_est": 800,
+    "hiring_signals": "None public",
+    "review_themes": "Luxury experience, results, hotel location",
+    "social_ig": "@luxmedspa",
+    "booking_method": "Online / Phone",
+    "last_updated": "2026-08-12",
+    "notes": "Inside SLS LUX Hotel; high review volume leader",
+    "data_confidence": "High"
+  }
+]
