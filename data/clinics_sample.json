@@ -1,0 +1,21 @@
+{
+  "note": "15-clinic sample. Full 80-clinic dataset lives in the original build artifacts / ZIP. Structure is identical.",
+  "sample_count": 15,
+  "clinics": [
+    {"id": 1, "business_name": "LUX MedSpa Brickell", "neighborhood": "Brickell", "google_rating": 5.0, "review_count": 2322, "botox_price_per_unit_est": 15, "data_confidence": "High"},
+    {"id": 2, "business_name": "Dolce Medical Spa - Miami", "neighborhood": "Brickell / South Miami", "google_rating": 5.0, "review_count": 1223, "botox_price_per_unit_est": 14, "data_confidence": "High"},
+    {"id": 3, "business_name": "Monaco MedSpa", "neighborhood": "Midtown", "google_rating": 5.0, "review_count": 151, "botox_price_per_unit_est": 16, "data_confidence": "High"},
+    {"id": 4, "business_name": "NuYou Medical Aesthetics", "neighborhood": "Downtown / Biscayne", "google_rating": 5.0, "review_count": 488, "botox_price_per_unit_est": 13, "data_confidence": "Medium"},
+    {"id": 11, "business_name": "4Ever Young Med Spa & Wellness - Dadeland", "neighborhood": "Dadeland", "google_rating": 5.0, "review_count": 828, "botox_price_per_unit_est": 13, "data_confidence": "High"},
+    {"id": 25, "business_name": "Facial Mania Med Spa (Coral Gables area)", "neighborhood": "Coral Gables / Kendall", "google_rating": 4.8, "review_count": 500, "hiring_signals": "Active: Aesthetic Injector FT roles", "data_confidence": "High"},
+    {"id": 26, "business_name": "Body Details Miami", "neighborhood": "Multiple / Metro", "google_rating": 4.6, "review_count": 8712, "data_confidence": "High"},
+    {"id": 51, "business_name": "BeautyFix Brickell", "neighborhood": "Brickell", "google_rating": 4.9, "review_count": 80, "botox_price_per_unit_est": 14, "data_confidence": "Medium"},
+    {"id": 57, "business_name": "Luminer Wellness & Medspa", "neighborhood": "Doral", "google_rating": 5.0, "review_count": 20, "data_confidence": "Low"},
+    {"id": 62, "business_name": "Sanavital Med Spa", "neighborhood": "Doral / Miami", "google_rating": 5.0, "review_count": 603, "data_confidence": "Medium"},
+    {"id": 66, "business_name": "Azala Skin Clinic", "neighborhood": "Coconut Grove", "google_rating": 5.0, "review_count": 426, "data_confidence": "Medium"},
+    {"id": 69, "business_name": "Ideal Image Coral Gables", "neighborhood": "Coral Gables", "google_rating": 4.9, "review_count": 634, "data_confidence": "Medium"},
+    {"id": 70, "business_name": "ALEXIS LAUREN | Coral Gables", "neighborhood": "Coral Gables", "google_rating": 5.0, "review_count": 420, "data_confidence": "Medium"},
+    {"id": 80, "business_name": "Sana Skin Studio Wynwood", "neighborhood": "Wynwood", "google_rating": 4.9, "review_count": 296, "data_confidence": "Medium"},
+    {"id": 12, "business_name": "Brickell Cosmetic Center", "neighborhood": "Brickell", "google_rating": 4.9, "review_count": 400, "botox_price_per_unit_est": 10, "notes": "Aggressive intro pricing visible", "data_confidence": "Medium"}
+  ]
+}
